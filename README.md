@@ -16,12 +16,6 @@ Mapbox
 Heroku
 Git
 
-# Installation
-Clone this repository
-
-git clone https://github.com/Chiadikaobixo/node-weather-app.git
-
-
 🔹Features:
 Getting weather forecast using Open Weather API
 City name and country based querying
